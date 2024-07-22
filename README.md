@@ -4,7 +4,7 @@
 - 🧑‍💻 Inventor at heart
 - 📈 Learning how to market
 - 🤖 Interested in AI & robots
-- 🏫 IMSA graduate, studying at Purdue
+- 🏫 IMSA graduate, studying CS at Purdue
 - 💬 Ask me about anything webdev!
 
 ## 🌐 Top languages
