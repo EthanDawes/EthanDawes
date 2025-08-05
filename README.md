@@ -11,7 +11,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=funblaster22&layout=compact&theme=radical">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funblaster22&layout=compact">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanDawes&layout=compact">
 </picture>
 
 <!--
