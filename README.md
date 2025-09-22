@@ -2,10 +2,15 @@
 
 ## About me
 - 🧑‍💻 Inventor at heart
-- 📈 Learning how to market
-- 🤖 Interested in AI & robots
-- 🏫 IMSA graduate, studying CS at Purdue
-- 💬 Ask me about anything webdev!
+- 🏫 [IMSA](https://imsa.edu/) graduate, studying CS at [Purdue](https://www.purdue.edu/)
+
+## Crazy about
+- 📊 Data and the insights it gives (TimeMan, TimeBudget)
+- ⏱️ Productivity (ibid)
+- 🤖 Workflow Automation
+- 🎓 Tools for helping students (ECELabs, gradebook, MathMan, Pleiades, PitchRead, MeetAsOne)
+- 🪩 Planning events as an Resident Assistant and in the [Residence Hall Association](https://housing.purdue.edu/campus-living/get-involved/rha.html)
+- On-device compute and decentralized systems
 
 ## 🌐 Top languages
 
@@ -27,4 +32,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📈 Learning how to market
+- 🤖 Interested in AI & robots
+- 💬 Ask me about anything webdev!
 -->
