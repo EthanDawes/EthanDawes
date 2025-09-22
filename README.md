@@ -10,7 +10,7 @@
 - 🤖 Workflow Automation
 - 🎓 Tools for helping students (ECELabs, gradebook, MathMan, Pleiades, PitchRead, MeetAsOne)
 - 🪩 Planning events as an Resident Assistant and in the [Residence Hall Association](https://housing.purdue.edu/campus-living/get-involved/rha.html)
-- On-device compute and decentralized systems
+- 🧩 On-device compute and decentralized systems
 
 ## 🌐 Top languages
 
